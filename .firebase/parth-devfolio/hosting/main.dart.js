@@ -67897,7 +67897,7 @@ H(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g="Montserrat",f=A.aX(a,h,t.w).w.a
 A.dT(a,!0,t.Q)
 s=f.b
 r=$.jA
-q=A.vr(0,A.FB(new A.eN(A.aes(B.ff,A.eS("assets/photos/black-white.PNG",h,f.a<1200?s*0.8:s*0.85),new A.WQ()),B.aL,B.b7,B.h,h),0.9),h,h,h,0,h,h)
+q=A.vr(0,A.FB(new A.eN(A.aes(B.ff,A.eS("assets/photos/black-white.png",h,f.a<1200?s*0.8:s*0.85),new A.WQ()),B.aL,B.b7,B.h,h),0.9),h,h,h,0,h,h)
 p=$.bb
 o=t.p
 n=A.cr(A.a([A.bf("WELCOME TO MY PORTFOLIO! ",$.dO.il(g),h),new A.eN(A.eS("assets/hi.gif",h,$.bb*12*0.77+12),B.cF,B.b7,B.h,h)],o),B.q,B.aO)
@@ -67913,7 +67913,7 @@ A.WQ.prototype={
 $1(a){return B.h2.ze(0,a)},
 $S:69}
 A.E6.prototype={
-H(a){var s,r,q,p,o,n,m=null,l="Montserrat",k=A.aX(a,m,t.w).w,j=$.bb,i=A.vr(0,A.FB(A.aes(B.ff,A.eS("assets/photos/black-white.PNG",m,j*150*0.77+150),new A.WR()),0.9),m,m,m,-(j*25*0.77+25),m,m),h=A.bf("HEY THERE! ",$.nW.il(l),m),g=$.pD
+H(a){var s,r,q,p,o,n,m=null,l="Montserrat",k=A.aX(a,m,t.w).w,j=$.bb,i=A.vr(0,A.FB(A.aes(B.ff,A.eS("assets/photos/black-white.png",m,j*150*0.77+150),new A.WR()),0.9),m,m,m,-(j*25*0.77+25),m,m),h=A.bf("HEY THERE! ",$.nW.il(l),m),g=$.pD
 g.toString
 s=t.p
 g=A.cr(A.a([h,g,A.eS("assets/hi.gif",m,$.bb*10*0.77+10)],s),B.q,B.aO)
@@ -67931,7 +67931,7 @@ A.WR.prototype={
 $1(a){return B.h2.ze(0,a)},
 $S:69}
 A.E8.prototype={
-H(a){var s,r,q,p,o=null,n="Montserrat",m=A.aX(a,o,t.w).w.a,l=m.b,k=A.vr(0,A.FB(new A.eN(A.aes(B.ff,A.eS("assets/photos/black-white.PNG",o,m.a<1200?l*0.75:l*0.85),new A.WS()),B.aL,B.b7,B.h,o),0.9),o,o,o,0,o,o),j=$.bb,i=t.p,h=A.cr(A.a([A.bf("WELCOME TO MY PORTFOLIO! ",$.nW.il(n),o),new A.eN(A.eS("assets/hi.gif",o,$.bb*12*0.77+12),B.cF,B.b7,B.h,o)],i),B.q,B.aO),g=$.fE
+H(a){var s,r,q,p,o=null,n="Montserrat",m=A.aX(a,o,t.w).w.a,l=m.b,k=A.vr(0,A.FB(new A.eN(A.aes(B.ff,A.eS("assets/photos/black-white.png",o,m.a<1200?l*0.75:l*0.85),new A.WS()),B.aL,B.b7,B.h,o),0.9),o,o,o,0,o,o),j=$.bb,i=t.p,h=A.cr(A.a([A.bf("WELCOME TO MY PORTFOLIO! ",$.nW.il(n),o),new A.eN(A.eS("assets/hi.gif",o,$.bb*12*0.77+12),B.cF,B.b7,B.h,o)],i),B.q,B.aO),g=$.fE
 g.toString
 s=A.bf("Parth",$.RT.JC(n,B.c4),o)
 r=A.bf("Panchal",$.ad7.Jy(1),o)

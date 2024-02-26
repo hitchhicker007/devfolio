@@ -29,20 +29,21 @@ class StaticUtils {
   static const String openSourceBlack = 'assets/services/open_b.png';
 
   static const List<String> socialIconURL = [
-    "https://img.icons8.com/metro/208/ffffff/facebook-new--v2.png",
-    "https://img.icons8.com/ios-glyphs/480/ffffff/instagram-new.png",
+    // "https://img.icons8.com/metro/208/ffffff/facebook-new--v2.png",
+    // "https://img.icons8.com/ios-glyphs/480/ffffff/instagram-new.png",
     "https://img.icons8.com/android/480/ffffff/twitter.png",
     "https://img.icons8.com/metro/308/ffffff/linkedin.png",
     "https://img.icons8.com/material-rounded/384/ffffff/github.png",
+    "https://img.icons8.com/ios-filled/500/FFFFFF/stackoverflow.png",
   ];
 
   static const List<String> socialLinks = [
-    "https://www.facebook.com/hitchhickerrr/",
-    "https://www.instagram.com/hitchhicker.tech/",
+    // "https://www.facebook.com/hitchhickerrr/",
+    // "https://www.instagram.com/hitchhicker.tech/",
     "https://twitter.com/hitchhickerrr",
     "https://www.linkedin.com/in/parthpanchal8401/",
     "https://github.com/hitchhicker007",
-    "https://mhmzdev.medium.com"
+    "https://stackoverflow.com/users/17900955/parth-panchal"
   ];
 
   static const String resume =
